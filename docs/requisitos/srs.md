@@ -266,6 +266,13 @@ que pueden interpretarse de más de una manera. Cada entrada indicará su fuente
 para conservar la procedencia de la definición. El catálogo de requisitos podrá
 enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
+| Paciente | Persona con EII que usa la plataforma para encontrar recetas y mejorar su alimentación.| Documento de Visión y Alcance, §3.1 |
+| Cuidador | Familiar o profesional que ayuda a un paciente. Necesita el permiso expreso del paciente para poder ver sus datos de salud. | Acta de captura de requisitos, §2 |
+| Nutricionista | Profesional médico o dietista comprobado. Se encarga de crear recetas, revisar y aprobar las de otros usuarios, y publicar consejos de salud. | Acta de captura de requisitos, §1.3 |
+| Coordinador | Persona encargada de mantener el orden: vigila el foro, revisa las quejas por mal comportamiento y gestiona las cuentas (dar de alta, suspender o bloquear usuarios). | Documento de Visión y Alcance, §3.1 |
+| Receta adaptada | Receta que encaja con las alergias y necesidades del paciente, pero sin que el sistema cambie los ingredientes o las cantidades de forma automática. | Acta de captura de requisitos, §3 |
+| EII | Enfermedades Inflamatorias Intestinales. Es el problema de salud principal que tienen los pacientes que usan esta plataforma.| Documento de Visión y Alcance, §1.1 |
+
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
 
